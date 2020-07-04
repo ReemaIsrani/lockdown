@@ -1,0 +1,4 @@
+applications:
+ - name: lockdown.py
+ - random-route: true
+ - memory: 256M
